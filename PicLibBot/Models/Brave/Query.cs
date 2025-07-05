@@ -17,5 +17,5 @@ public sealed class Query
     public bool? SpellcheckOff { get; set; }
 
     [JsonPropertyName("show_strict_warning")]
-    public string? ShowStrictWarning { get; set; }
+    public bool? ShowStrictWarning { get; set; }
 }
