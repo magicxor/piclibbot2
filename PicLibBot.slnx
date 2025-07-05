@@ -2,7 +2,12 @@
   <Folder Name="/Solution Items/">
     <File Path=".editorconfig" />
     <File Path="Directory.Packages.props" />
+    <File Path="Directory.Build.props" />
+    <File Path=".runsettings" />
+    <File Path="README.md" />
+    <File Path=".gitignore" />
+    <File Path=".dockerignore" />
   </Folder>
-  <Project Path="PicLibBot.Tests.Unit\PicLibBot.Tests.Unit.csproj" />
+  <Project Path="PicLibBot.Tests.Unit/PicLibBot.Tests.Unit.csproj" />
   <Project Path="PicLibBot/PicLibBot.csproj" />
 </Solution>
