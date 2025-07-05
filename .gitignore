@@ -416,3 +416,11 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+PicLibBot/.idea/
+
+PicLibBot/PicLibBot/appsettings.json
+
+PicLibBot/appsettings.json
+
+.idea/

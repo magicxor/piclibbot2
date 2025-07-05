@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+    <File Path="Directory.Packages.props" />
+  </Folder>
+  <Project Path="PicLibBot.Tests/PicLibBot.Tests.csproj" />
+  <Project Path="PicLibBot/PicLibBot.csproj" />
+</Solution>
