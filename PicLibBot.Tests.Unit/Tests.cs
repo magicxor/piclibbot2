@@ -1,4 +1,4 @@
-﻿namespace PicLibBot.Tests;
+﻿namespace PicLibBot.Tests.Unit;
 
 [TestFixture]
 [Parallelizable(scope: ParallelScope.All)]
