@@ -14,7 +14,7 @@ A Telegram inline bot that provides instant image search results using the Brave
 
 ## 🛠️ Technology Stack
 
-- **Runtime**: .NET 9.0
+- **Runtime**: .NET
 - **Framework**: ASP.NET Core with Hosted Services
 - **HTTP Client**: Refit with Polly for resilience
 - **Telegram API**: Telegram.Bot library
