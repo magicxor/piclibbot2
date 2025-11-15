@@ -1,5 +1,8 @@
 # PicLibBot 🤖🔍
 
+[![master branch - test, build, push, deploy](https://github.com/magicxor/piclibbot2/actions/workflows/on_master_push.yml/badge.svg)](https://github.com/magicxor/piclibbot2/actions/workflows/on_master_push.yml)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/magicxor/piclibbot2)
+
 A Telegram inline bot that provides instant image search results using the Brave Search API. Simply type `@your_bot_name` followed by your search query in any Telegram chat to get relevant image results instantly!
 
 ## ✨ Features
