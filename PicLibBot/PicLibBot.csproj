@@ -20,6 +20,7 @@
     <PackageReference Include="Polly.Contrib.WaitAndRetry" />
     <PackageReference Include="Refit" />
     <PackageReference Include="Refit.HttpClientFactory" />
+    <PackageReference Include="Refit.Reflection" />
     <PackageReference Include="Telegram.Bot" />
   </ItemGroup>
 
